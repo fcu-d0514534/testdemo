@@ -7,7 +7,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 
 public class WebActivity extends AppCompatActivity {
-
+    //123
     WebView webView;
     WebSettings webSettings;
     String url;
